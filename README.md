@@ -1,4 +1,4 @@
-# vibe-lab
+# Daydream-corner ☁️
 
 personal + fun projects only.  
 nothing serious. nothing production-ready. just my side of the hook.
